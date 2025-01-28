@@ -4,3 +4,6 @@ An attempt to write a dimension-reducing algorithm from the cover of this [book]
 Here are some examples of images that this algorithm generates
 
 ![screenshot](images/image1.png)
+![screenshot](images/image2.png)
+![screenshot](images/image3.png)
+![screenshot](images/image4.png)
